@@ -56,7 +56,7 @@
 	</div>
 	<div class="col-md-4">
 		<h2>Terraform</h2>
-		<p>ABC</p>
+		<p>TERRAFORM</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
 		</p>
