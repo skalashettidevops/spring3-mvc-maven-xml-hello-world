@@ -1,7 +1,7 @@
 pipeline {
  agent any
    environment {
-    registry = "ybmsr/${projectName}"
+    registry = "ybmsr/spring3-mvc-maven-xml-hello-world-jmsth-40-docker"
     registryCredential = 'dockerhub_credentials'
     dockerImage = ''
   }
