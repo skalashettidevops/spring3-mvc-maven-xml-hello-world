@@ -28,7 +28,7 @@
 		</c:if>
  
 		<c:if test="${empty name}">
-			Welcome Welcome!
+			Welcome DevOps!
 		</c:if>
     </p>
     <p>
@@ -42,21 +42,21 @@
   <div class="row">
 	<div class="col-md-4">
 		<h2>Heading</h2>
-		<p>DevOps</p>
+		<p>GIT</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
 		</p>
 	</div>
 	<div class="col-md-4">
 		<h2>Heading</h2>
-		<p>AWS</p>
+		<p>LINUX</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
 		</p>
 	</div>
 	<div class="col-md-4">
 		<h2>Heading</h2>
-		<p>TERRAFORM</p>
+		<p>JENKINS</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
 		</p>
